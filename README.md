@@ -3,8 +3,8 @@
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
-![moonjayoung's github stats](https://github-readme-stats.vercel.app/api?username=moonjayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjayoung)](https://github.com/anuraghazra/github-readme-stats)
+[![moonjayoung's github stats](https://github-readme-stats.vercel.app/api?username=moonjayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Moonjayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjayoung)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
