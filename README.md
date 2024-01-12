@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 기술스택
-![GIT]https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <!--
 **moonjayoung/moonjayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
