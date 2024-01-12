@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 [![Moonjayoung's Github stats](https://github-readme-stats.vercel.app/api?username=moonjayoung&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Moonjayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjayoung)](https://github.com/anuraghazra/github-readme-stats)
+[![Moonjayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjayoung&show_icons=true&animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
