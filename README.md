@@ -3,7 +3,7 @@
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
-![moonjayoung](https://github-readme-stats.vercel.app/api?username=moonjayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+![moonjayoung's github stats](https://github-readme-stats.vercel.app/api?username=moonjayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
 
 <!--
 **moonjayoung/moonjayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
